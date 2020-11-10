@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## PlumbBob
 
-You can use the [editor on GitHub](https://github.com/MrRaevenswood/PlumbBob/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Simmer Influencer Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is it?
 
-### Markdown
+It is a web app meant to house a model of Simmer Influencers and their factors of success that can help predict the success of your social media outreach in this community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Data Sources
+The data will come from a variety of social media sources including the following:
 
-```markdown
-Syntax highlighted code block
+  1. Twitter
+  2. YouTube
+  3. Twitch
+  4. EA Sim Gallery
+  5. Instagram
+  6. Release dates of Sim game releases and expansion packs
+  
+### Analysis
+The model will be based on the following analysis:
+  1. Twitter following/follower graphs of Simmer Influencers
+  2. Timeline Analysis of the following paired with release date data:
+    - Tweet Engagement 
+    - Youtube Video metrics
+    - Twitch Video metrics
+    - EA Sim Gallery metrics
+  3. Classification of Builds ( homes created by Sim players in game ) and their social media impact
+  4. Clustering of Communities based on followers of Simmer Influencers
+  5. Natural Language Processing of tweets
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrRaevenswood/PlumbBob/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
