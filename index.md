@@ -7,7 +7,7 @@ Simmer Influencer Analysis
 It is a web app meant to house a model of Simmer Influencers and their factors of success that can help predict the success of your social media outreach in this community. 
 
 ### Data Sources
-The data will come from a variety of social media sources including the following:
+The data (housed in Google Cloud) will come from a variety of social media sources including the following:
 
   1. Twitter
   2. YouTube
