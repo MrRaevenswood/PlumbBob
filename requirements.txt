@@ -1,6 +1,5 @@
 absl-py==0.11.0
 alabaster==0.7.12
-alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1599849174714/work
 appdirs==1.4.4
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1605217004767/work
 astunparse==1.6.3
