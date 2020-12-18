@@ -1,0 +1,2 @@
+wget -q -O twitterPopularSimmerFriends.zip "https://github.com/MrRaevenswood/PlumbBob/raw/main/twitterPopularSimmerFriends.zip"
+wget -q -O twitterPopularSimmer.json "https://raw.githubusercontent.com/MrRaevenswood/PlumbBob/main/twitterPopularSimmer.json#"
